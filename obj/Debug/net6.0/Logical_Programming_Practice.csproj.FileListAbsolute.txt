@@ -1,0 +1,15 @@
+V:\bridgeLabz\RFP\CodeWrkDir\Logical_Programming_Practice\Logical_Programming_Practice\bin\Debug\net6.0\Logical_Programming_Practice.exe
+V:\bridgeLabz\RFP\CodeWrkDir\Logical_Programming_Practice\Logical_Programming_Practice\bin\Debug\net6.0\Logical_Programming_Practice.deps.json
+V:\bridgeLabz\RFP\CodeWrkDir\Logical_Programming_Practice\Logical_Programming_Practice\bin\Debug\net6.0\Logical_Programming_Practice.runtimeconfig.json
+V:\bridgeLabz\RFP\CodeWrkDir\Logical_Programming_Practice\Logical_Programming_Practice\bin\Debug\net6.0\Logical_Programming_Practice.dll
+V:\bridgeLabz\RFP\CodeWrkDir\Logical_Programming_Practice\Logical_Programming_Practice\bin\Debug\net6.0\Logical_Programming_Practice.pdb
+V:\bridgeLabz\RFP\CodeWrkDir\Logical_Programming_Practice\Logical_Programming_Practice\obj\Debug\net6.0\Logical_Programming_Practice.csproj.AssemblyReference.cache
+V:\bridgeLabz\RFP\CodeWrkDir\Logical_Programming_Practice\Logical_Programming_Practice\obj\Debug\net6.0\Logical_Programming_Practice.GeneratedMSBuildEditorConfig.editorconfig
+V:\bridgeLabz\RFP\CodeWrkDir\Logical_Programming_Practice\Logical_Programming_Practice\obj\Debug\net6.0\Logical_Programming_Practice.AssemblyInfoInputs.cache
+V:\bridgeLabz\RFP\CodeWrkDir\Logical_Programming_Practice\Logical_Programming_Practice\obj\Debug\net6.0\Logical_Programming_Practice.AssemblyInfo.cs
+V:\bridgeLabz\RFP\CodeWrkDir\Logical_Programming_Practice\Logical_Programming_Practice\obj\Debug\net6.0\Logical_Programming_Practice.csproj.CoreCompileInputs.cache
+V:\bridgeLabz\RFP\CodeWrkDir\Logical_Programming_Practice\Logical_Programming_Practice\obj\Debug\net6.0\Logical_Programming_Practice.dll
+V:\bridgeLabz\RFP\CodeWrkDir\Logical_Programming_Practice\Logical_Programming_Practice\obj\Debug\net6.0\refint\Logical_Programming_Practice.dll
+V:\bridgeLabz\RFP\CodeWrkDir\Logical_Programming_Practice\Logical_Programming_Practice\obj\Debug\net6.0\Logical_Programming_Practice.pdb
+V:\bridgeLabz\RFP\CodeWrkDir\Logical_Programming_Practice\Logical_Programming_Practice\obj\Debug\net6.0\Logical_Programming_Practice.genruntimeconfig.cache
+V:\bridgeLabz\RFP\CodeWrkDir\Logical_Programming_Practice\Logical_Programming_Practice\obj\Debug\net6.0\ref\Logical_Programming_Practice.dll

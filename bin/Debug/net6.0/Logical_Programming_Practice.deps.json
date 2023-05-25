@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Logical_Programming_Practice/1.0.0": {
+        "runtime": {
+          "Logical_Programming_Practice.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Logical_Programming_Practice/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
